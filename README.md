@@ -162,7 +162,7 @@
 
 # Samba의 보완점
   같은 공유기로 접속을 한 경우(Gate way가 같은 경우)에만 폴더를 공유 할수 있다.
-  그럼으로 공유기 설정으로 포트포워드 해줌으로서 다른 Gate way이라도 파일을 공유할수 있게 한다
+  그럼으로 공유기 설정으로 포트 포워드 해줌으로서 다른 Gate way이라도 파일을 공유할수 있게 한다
 
 # Error Note
   (PyQt로 opencv를 보여줄때 발생할 수 있다.)vidioc_s_ctrl input/output error 이러한 이러한 애러가 발생시엔 focus를 auto를 해제 한다.
