@@ -1,16 +1,16 @@
 # 개발 환경
   
     Hard ware 
-      1. Raspberry Pi 3 Model B<br>
-      2. USB Web cam<br>
-      3. Desktop PC<br>
+      1. Raspberry Pi 3 Model B
+      2. USB Web cam
+      3. Desktop PC
     
     Soft ware 
-      1. OpenCV 3.4.1<br>
-      2. PyQt5<br>
-      3. Putty<br>
-      4. WinSCP<br>
-      5. Python3<br>
+      1. OpenCV 3.4.1
+      2. PyQt5
+      3. Putty
+      4. WinSCP
+      5. Python3
 
 # 개발환경 셋팅
   1. 라즈비안 설치<br>
