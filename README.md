@@ -43,7 +43,7 @@
         sudo apt-get upgrade<br>
         
       - OpenCV 컴파일 전에 필요한 패키지 설치
-        명령어 라인에
+        명령어 라인에<br>
         sudo apt-get install build-essential cmake<br>
         sudo apt-get install pkg-config<br>
         sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev<br>
