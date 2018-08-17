@@ -88,7 +88,7 @@
         -D WITH_FFMPEG=ON \
         -D WITH_XINE=ON \
         -D BUILD_NEW_PYTHON_SUPPORT=ON \
-        ../ (opencv 컴파일 설정)
+        ../ (opencv 컴파일 설정)<br><br>
         make -j4 (make 명령어를 사용하여 컴파일)<br><br>
         sudo make install (컴파일 결과를 설치)<br><br>
         
