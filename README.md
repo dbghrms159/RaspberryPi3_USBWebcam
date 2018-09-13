@@ -3,7 +3,7 @@
     Hard ware 
       1. Raspberry Pi 3 Model B
       2. USB Web cam
-      3. Desktop PC
+      3. Desktop PC 
     
     Soft ware 
       1. OpenCV 3.4.1
